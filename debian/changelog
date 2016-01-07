@@ -1,3 +1,9 @@
+zonemaster-cli (1.0.3-2~unstable+1) unstable; urgency=low
+
+  * Fix ExtUtils::MakeMaker version check.
+
+ -- Jerry Lundström <lundstrom.jerry@gmail.com>  Thu, 07 Jan 2016 14:34:27 +0100
+
 zonemaster-cli (1.0.3-1~unstable+1) unstable; urgency=low
 
   * Release 1.0.3.
