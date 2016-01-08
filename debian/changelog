@@ -1,3 +1,9 @@
+zonemaster-cli (1.0.3-3~unstable+1) unstable; urgency=low
+
+  * pdate debian/copyright.
+
+ -- Jerry Lundström <lundstrom.jerry@gmail.com>  Fri, 08 Jan 2016 13:39:39 +0100
+
 zonemaster-cli (1.0.3-2~unstable+1) unstable; urgency=low
 
   * Fix ExtUtils::MakeMaker version check.
